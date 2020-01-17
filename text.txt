@@ -1,4 +1,8 @@
 fjfjfjjfj
 
 
+<<<<<<< HEAD
 change by betina
+=======
+a quick brown fox jumps over
+>>>>>>> 60af74c82e830e105923473286d61960c8e384f8
